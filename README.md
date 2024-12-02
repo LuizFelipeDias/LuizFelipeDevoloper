@@ -16,7 +16,6 @@
 ![Larvel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vuejs)
-![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 ## DevOps
