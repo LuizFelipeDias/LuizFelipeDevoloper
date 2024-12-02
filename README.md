@@ -3,8 +3,8 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando Engenheira da Computação.
-- 💼 Estagiei como devenvolvedor FullStack na Visteon Amazonas.
-- 🌱 Aprendendo mais sobre serviços cloud's e ciência de dados.
+- 💼 Estagiei como devenvolvedor FullStack na Visteon Amazonas e B&Z.
+- 💪 Aprendendo e se aperfeiçoando mais sobre serviços cloud's e ciência de dados.
 
 ## Minhas Skills
 **Aplicações e dados**
@@ -39,5 +39,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-cunha-costa/)](https://www.linkedin.com/in/ricardo-cunha-costa/)
-[![Gmail Badge](https://img.shields.io/badge/-ricardocostadev95@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardocostadev95@gmail.com)](mailto:ricardocostadev95@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-dias-de-araujo/)]((https://www.linkedin.com/in/luiz-felipe-dias-de-araujo/))
+[![Gmail Badge](https://img.shields.io/badge/-lfdias2203@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lfdias2203@gmail.com.com)](mailto:lfdias2203@gmail.com)
