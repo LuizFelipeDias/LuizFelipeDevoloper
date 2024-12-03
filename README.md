@@ -10,6 +10,7 @@
 **Aplicações e dados**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![NestJs](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
