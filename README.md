@@ -37,5 +37,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-dias-de-araujo/)]((https://www.linkedin.com/in/luiz-felipe-dias-de-araujo/))
+[![Linkedin](https://img.shields.io/badge/-Luiz%20Felipe%20Dias%20de%20Ara%C3%BAjo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-dias-de-araujo/)](https://www.linkedin.com/in/luiz-felipe-dias-de-araujo/)
 [![Gmail Badge](https://img.shields.io/badge/-lfdias2203@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lfdias2203@gmail.com.com)](mailto:lfdias2203@gmail.com)
